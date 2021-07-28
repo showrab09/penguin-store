@@ -1,0 +1,22 @@
+body {
+  font-family: "Bebas Neue", cursive;
+}
+
+
+.button {
+  padding: 18px 24px;
+  letter-spacing: 1px;
+  font-weight: 500;
+  font-size: 16px;
+  color: white;
+  background: linear-gradient(180deg, #a4bc46 0%, #85a019 100%);
+  border-radius: 10px;
+  display: flex;
+  align-items: center;
+  font-family: "Roboto", sans-serif;
+}
+.button img {
+  width: 24px;
+  height: 24px;
+  margin-right: 7px;
+}
